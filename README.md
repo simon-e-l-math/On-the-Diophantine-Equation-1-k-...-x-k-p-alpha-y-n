@@ -1,6 +1,6 @@
 # Computations for the article: On the Diophantine Equation $1^k + 2^k + \dots + x^k = p^{\alpha}y^n$
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PLACEHOLDER.svg)](https://doi.org/10.5281/zenodo.PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/1297914523.svg)](https://doi.org/10.5281/zenodo.21317815)
 
 ### Overview
 This repository contains the SageMath and PARI/GP implementations used to computationally investigate near-solutions to Schäffer's conjecture. Specifically, the codebase assists in completely solving the Diophantine equation:
@@ -66,7 +66,7 @@ If you use this code in your own research, please cite the accompanying paper an
   year         = {2026},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.PLACEHOLDER},
-  url          = {[https://doi.org/10.5281/zenodo.PLACEHOLDER](https://doi.org/10.5281/zenodo.PLACEHOLDER)}
+  url          = {[![DOI](https://zenodo.org/badge/1297914523.svg)](https://doi.org/10.5281/zenodo.21317815)}
 }
 ```
 
